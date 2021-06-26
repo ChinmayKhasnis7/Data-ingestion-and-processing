@@ -1,2 +1,2 @@
 # Data-ingestion-and-processing
-Hive query language assignment
+Hive query language
